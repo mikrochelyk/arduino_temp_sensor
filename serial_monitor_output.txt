@@ -1,0 +1,42 @@
+19:23:10.879 -> Warning: Temperature has reached 26 degrees. First LED is turning ON.
+19:23:11.891 -> Sensor Value: 155, Volts: 0.76, degrees C: 25.68
+19:23:12.874 -> Sensor Value: 156, Volts: 0.76, degrees C: 26.17
+19:23:12.939 -> Warning: Temperature has reached 26 degrees. First LED is turning ON.
+19:23:13.935 -> Sensor Value: 155, Volts: 0.76, degrees C: 25.68
+19:23:14.967 -> Sensor Value: 159, Volts: 0.78, degrees C: 27.64
+19:23:14.999 -> Warning: Temperature has reached 26 degrees. First LED is turning ON.
+19:23:15.991 -> Sensor Value: 161, Volts: 0.79, degrees C: 28.61
+19:23:16.056 -> Warning: Temperature has reached 26 degrees. First LED is turning ON.
+19:23:17.048 -> Sensor Value: 163, Volts: 0.80, degrees C: 29.59
+19:23:17.113 -> Warning: Temperature has reached 28 degrees. Second LED is turning ON.
+19:23:18.133 -> Sensor Value: 167, Volts: 0.82, degrees C: 31.54
+19:23:18.309 -> Safety alert, temperature is over 30 degrees. Third LED is turning ON
+19:23:19.341 -> Sensor Value: 168, Volts: 0.82, degrees C: 32.03
+19:23:19.517 -> Safety alert, temperature is over 30 degrees. Third LED is turning ON
+19:23:20.526 -> Sensor Value: 169, Volts: 0.83, degrees C: 32.52
+19:23:20.726 -> Safety alert, temperature is over 30 degrees. Third LED is turning ON
+19:23:21.734 -> Sensor Value: 170, Volts: 0.83, degrees C: 33.01
+19:23:21.934 -> Safety alert, temperature is over 30 degrees. Third LED is turning ON
+19:23:22.950 -> Sensor Value: 171, Volts: 0.83, degrees C: 33.50
+19:23:23.142 -> Safety alert, temperature is over 30 degrees. Third LED is turning ON
+19:23:24.170 -> Sensor Value: 171, Volts: 0.83, degrees C: 33.50
+19:23:24.350 -> Safety alert, temperature is over 30 degrees. Third LED is turning ON
+19:23:25.355 -> Sensor Value: 170, Volts: 0.83, degrees C: 33.01
+19:23:25.567 -> Safety alert, temperature is over 30 degrees. Third LED is turning ON
+19:23:26.587 -> Sensor Value: 172, Volts: 0.84, degrees C: 33.98
+19:23:26.763 -> Safety alert, temperature is over 30 degrees. Third LED is turning ON
+19:23:27.771 -> Sensor Value: 171, Volts: 0.83, degrees C: 33.50
+19:23:27.975 -> Safety alert, temperature is over 30 degrees. Third LED is turning ON
+19:23:28.983 -> Sensor Value: 172, Volts: 0.84, degrees C: 33.98
+19:23:29.183 -> Safety alert, temperature is over 30 degrees. Third LED is turning ON
+19:23:30.212 -> Sensor Value: 172, Volts: 0.84, degrees C: 33.98
+19:23:30.388 -> Safety alert, temperature is over 30 degrees. Third LED is turning ON
+19:23:31.396 -> Sensor Value: 172, Volts: 0.84, degrees C: 33.98
+19:23:31.597 -> Safety alert, temperature is over 30 degrees. Third LED is turning ON
+19:23:32.625 -> Sensor Value: 170, Volts: 0.83, degrees C: 33.01
+19:23:32.829 -> Safety alert, temperature is over 30 degrees. Third LED is turning ON
+19:23:33.808 -> Sensor Value: 171, Volts: 0.83, degrees C: 33.50
+19:23:34.009 -> Safety alert, temperature is over 30 degrees. Third LED is turning ON
+19:23:35.016 -> Sensor Value: 171, Volts: 0.83, degrees C: 33.50
+19:23:35.217 -> Safety alert, temperature is over 30 degrees. Third LED is turning ON
+19:23:36.229 -> Sensor Value: 171, Volts: 0.83, degrees C: 33.50

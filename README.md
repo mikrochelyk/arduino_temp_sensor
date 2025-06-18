@@ -1,0 +1,2 @@
+Simple temperature sensor with 3 LED's which light up as soon as any temperature value is reached. I.e first LED is starting to light up as soon as 26 degrees Celsius is reached. Second LED lights up as soon as 28 degrees is reached, third LED lights up when 30 degrees are reached.
+User is provided with a notification that temperature value is reached, and specific LED is being enabled. Used with ADC temperature sensor, analog input for sensor and digital outputs for LED's, connected with 220 ohm resistors. 
